@@ -1,9 +1,9 @@
 {
   "schema_version": "v1",
-  "name_for_model": "langchain_docs_db",
-  "name_for_human": "langchain docs",
-  "description_for_model": "This tool is used to answer any questions about the lanchain python library.",
-  "description_for_human": "This tool is used to answer any questions about the lanchain python library.",
+  "name_for_model": "concur_db",
+  "name_for_human": "concur docs",
+  "description_for_model": "This tool is used to answer any questions travel and expense using Concur.",
+  "description_for_human": "This tool is used to answer any questions travel and expense using Concur.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
